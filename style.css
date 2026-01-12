@@ -1,0 +1,81 @@
+/* Reset default browser styling */
+* {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Body styling */
+body {
+          background-color: #f4f6f8;
+          color: #222;
+          padding: 20px;
+}
+
+/* Header section */
+header {
+          text-align: center;
+          background: #ffffff;
+          padding: 25px;
+          border-radius: 10px;
+          box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+          font-size: 32px;
+          color: #0a3d62;
+}
+
+header p {
+          margin-top: 8px;
+          font-size: 16px;
+          color: #555;
+}
+
+header img {
+          margin-top: 15px;
+          border-radius: 50%;
+          border: 3px solid #0a3d62;
+}
+
+/* Section styling */
+section {
+          background: #ffffff;
+          padding: 20px;
+          margin-top: 20px;
+          border-radius: 10px;
+          box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+}
+
+/* Headings */
+h2 {
+          color: #0a3d62;
+          margin-bottom: 10px;
+          border-bottom: 2px solid #0a3d62;
+          display: inline-block;
+          padding-bottom: 4px;
+}
+
+/* List styling */
+ul {
+          margin-top: 10px;
+          padding-left: 20px;
+}
+
+li {
+          margin-bottom: 8px;
+}
+
+/* Contact text */
+section p {
+          margin: 6px 0;
+}
+
+/* Footer */
+footer {
+          margin-top: 30px;
+          text-align: center;
+          color: #666;
+          font-size: 14px;
+}
